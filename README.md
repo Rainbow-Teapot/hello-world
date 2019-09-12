@@ -1,2 +1,3 @@
 # hello-world
-A teapot repository
+A teapot repository.
+The best repository of teapots.
